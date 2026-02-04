@@ -1,0 +1,8 @@
+{
+  "name": "viral-hashtag-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "google-trends-api": "^4.9.2"
+  }
+}
